@@ -19,7 +19,7 @@
         ctx.fillStyle = 'black';
         ctx.fillRect(0, 0, canvas.width, canvas.height);
         ctx.strokeStyle = 'white';
-        ctx.lineWidth = 25;
+        ctx.lineWidth = 15;
         ctx.lineCap = 'round';
     }
 
